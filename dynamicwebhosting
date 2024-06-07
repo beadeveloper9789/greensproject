@@ -1,6 +1,8 @@
 sudo apt update -y
   sudo apt upgrdae -y
   sudo apt install apache2
+  sudo apt-get install -y mssql-server
+
   sudo apt-get install php libapache2-mod-php php-mysql
 
 sudo apt install php libapache2-mod-php php-mysql php-mysqli php-gd
